@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "585820757297",
+    "firebase_url": "https://finalprojectremind-default-rtdb.firebaseio.com",
+    "project_id": "finalprojectremind",
+    "storage_bucket": "finalprojectremind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585820757297:android:bc8a4c6f05775813c52410",
+        "android_client_info": {
+          "package_name": "com.example.finalprojectremind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585820757297-fie6so8ce69fjohj7584r6c9smgu52vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAbFDcCYp93i4O3xTIzm3MwO1mOHyTePE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585820757297-fie6so8ce69fjohj7584r6c9smgu52vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

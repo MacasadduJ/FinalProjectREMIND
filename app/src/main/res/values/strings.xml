@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalProjectREMIND</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="mark_as_completed">mark_as_completed</string>
+    <string name="reset">reset</string>
+</resources>
